@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 90" fill="none">
+  <circle cx="45" cy="45" r="40" fill="#0B1D2E"/>
+  <circle cx="45" cy="45" r="40" stroke="#17B8AE" stroke-width="2"/>
+  <path d="M45 22c9 12 15 19.5 15 27.5A15 15 0 0 1 30 49.5C30 41.5 36 34 45 22Z" fill="#17B8AE"/>
+  <path d="M38 47c0 4.5 3 7.5 7 8" stroke="#0B1D2E" stroke-width="2.5" stroke-linecap="round"/>
+  <text x="98" y="43" font-family="'Big Shoulders Display', sans-serif" font-weight="800" font-size="30" letter-spacing="0.5" fill="#0B1D2E">KAUFMAN</text>
+  <text x="98" y="70" font-family="'Big Shoulders Display', sans-serif" font-weight="800" font-size="30" letter-spacing="2" fill="#17B8AE">WASH</text>
+</svg>
