@@ -1,4 +1,4 @@
-# Kaufman Wash — website + Square booking + admin
+# Kaufman Wash — website, Square booking and admin
 
 A full marketing site for Kaufman Wash, with appointment booking and
 payment handled by **Square Appointments**. The pages themselves are
